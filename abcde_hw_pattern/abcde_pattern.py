@@ -10,5 +10,5 @@ for row in range(n):
         if col==n:
             continue
         print(chr(col+64),end="")
-     print()
+    print()
         
